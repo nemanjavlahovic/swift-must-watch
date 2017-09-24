@@ -1,4 +1,4 @@
-# swift-must-watch
+# Must-watch videos about Swift
 > This is a list of must-watch videos devoted to Swift, heavily inspired by @bolshchikov's js-must-watch repo.
 
 ## 2017
