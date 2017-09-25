@@ -7,6 +7,7 @@
 
 ## 2016
 1. [Rob Napier: **Beyond Crusty: Real-World Protocols**](https://www.youtube.com/watch?v=QCxkaTj7QJs) [17:04]
+1. [Chris Eidhof: **Tiny Networking**](https://www.youtube.com/watch?v=ewk-XNzXzAA&t=332s) [20:00]
 
 ## 2015
 1. [Natasha Murashev: **Introduction to Protocol-Oriented MVVM**](https://www.youtube.com/watch?v=cGWBpra3YMc) [29:13]
