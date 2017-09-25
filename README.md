@@ -10,3 +10,4 @@
 
 ## 2015
 1. [Natasha Murashev: **Introduction to Protocol-Oriented MVVM**](https://www.youtube.com/watch?v=cGWBpra3YMc) [29:13]
+1. [Andy Matuschak: **Controlling Complexity in Swift: Making Value Types Friends**](https://academy.realm.io/posts/andy-matuschak-controlling-complexity/) [57:45]
