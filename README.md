@@ -3,6 +3,7 @@
 
 ## 2017
 1. [Krzysztof Zabłocki: **Good iOS Application Architecture: MVVM vs. MVC vs. VIPER**](https://slideslive.com/38897361/good-ios-application-architecture-en) [53:37]
+1. [Erica Sadun: **A Funny Thing Happened On The Way To This Array**](https://academy.realm.io/posts/try-swift-nyc-2017-erica-sadun-swift-flexibility-arrays/) [22:52]
 
 ## 2016
 1. [Rob Napier: **Beyond Crusty: Real-World Protocols**](https://www.youtube.com/watch?v=QCxkaTj7QJs) [17:04]
