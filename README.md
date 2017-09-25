@@ -9,8 +9,11 @@
 1. [Rob Napier: **Beyond Crusty: Real-World Protocols**](https://www.youtube.com/watch?v=QCxkaTj7QJs) [17:04]
 1. [Chris Eidhof: **Tiny Networking**](https://www.youtube.com/watch?v=ewk-XNzXzAA) [20:00]
 1. [Mike Ash: **Exploring Swift Memory Layout**](https://www.youtube.com/watch?v=ERYNyrfXjlg) [57:17]
-
+1. [Ayaka Nonaka: **Contributing to Swift**](https://www.youtube.com/watch?v=0so-oU2QP48) [32:15]
 
 ## 2015
 1. [Natasha Murashev: **Introduction to Protocol-Oriented MVVM**](https://www.youtube.com/watch?v=cGWBpra3YMc) [29:13]
 1. [Andy Matuschak: **Controlling Complexity in Swift: Making Value Types Friends**](https://academy.realm.io/posts/andy-matuschak-controlling-complexity/) [57:45]
+
+## 2014
+1. [Ash Furrow: **Solving Problems the Swift Way**](https://www.youtube.com/watch?v=LtrzZb5Jw0g) [33:50]
