@@ -4,6 +4,7 @@
 ## 2017
 1. [Krzysztof Zabłocki: **Good iOS Application Architecture: MVVM vs. MVC vs. VIPER**](https://slideslive.com/38897361/good-ios-application-architecture-en) [53:37]
 1. [Erica Sadun: **A Funny Thing Happened On The Way To This Array**](https://academy.realm.io/posts/try-swift-nyc-2017-erica-sadun-swift-flexibility-arrays/) [22:52]
+1. [Chris Eidhof & FlorianKugler: **Intermediate Types**](https://www.youtube.com/watch?v=GzZO5VB1xUg) [29:12]
 
 ## 2016
 1. [Rob Napier: **Beyond Crusty: Real-World Protocols**](https://www.youtube.com/watch?v=QCxkaTj7QJs) [17:04]
@@ -17,3 +18,4 @@
 
 ## 2014
 1. [Ash Furrow: **Solving Problems the Swift Way**](https://www.youtube.com/watch?v=LtrzZb5Jw0g) [33:50]
+1. [Abizer Nasir: **Thinking in Swift**](https://vimeo.com/105440181) [24:23]
