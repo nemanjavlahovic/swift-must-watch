@@ -8,6 +8,7 @@
 1. [Marin Todorov: **RxSwift on iOS**](https://www.youtube.com/watch?v=vwpdcMsccIY) [18:36]
 1. [Michele Titolo: **Generics in Theory and Practice**](https://www.youtube.com/watch?v=eExr8xIU9k0) [16:11]
 1. [Károly Lőrentey: **Optimizing Swift Collections**](https://www.youtube.com/watch?v=UdZP6JeTCkM) [20:13]
+1. [Krzysztof Zabłocki: **Metaprogramming in Swift**](https://vimeo.com/235321010) [45:10]
 
 ## 2016
 1. [Rob Napier: **Beyond Crusty: Real-World Protocols**](https://www.youtube.com/watch?v=QCxkaTj7QJs) [17:04]
