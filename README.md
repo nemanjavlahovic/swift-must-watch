@@ -10,6 +10,7 @@
 1. [Károly Lőrentey: **Optimizing Swift Collections**](https://www.youtube.com/watch?v=UdZP6JeTCkM) [20:13]
 1. [Krzysztof Zabłocki: **Metaprogramming in Swift**](https://vimeo.com/235321010) [45:10]
 1. [Neem Serra: **Map and FlatMap Magic**](https://academy.realm.io/posts/try-swift-nyc-2017-neem-serra-map-and-flatmap-in-swift/) [25:40]
+1. [Sam Davies: **Codeable in Swift 4**](https://www.youtube.com/watch?v=_txZbmYmT3Y) [36:41]
 
 ## 2016
 1. [Rob Napier: **Beyond Crusty: Real-World Protocols**](https://www.youtube.com/watch?v=QCxkaTj7QJs) [17:04]
