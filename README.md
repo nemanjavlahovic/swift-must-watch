@@ -19,6 +19,7 @@
 1. [Ayaka Nonaka: **Contributing to Swift**](https://www.youtube.com/watch?v=0so-oU2QP48) [32:15]
 1. [Natasha Murashev: **Practical Protocol-Oriented Programming in Swift**](https://www.youtube.com/watch?v=qeDxb_ucqr0) [44:08]
 1. [Benjamin Encz: **Unidirectional Data Flow: Shrinking Massive View Controllers**](https://academy.realm.io/posts/benji-encz-unidirectional-data-flow-swift/) [36:30]
+1. [Nick O'Neill: **Let's Code: Basic Table View App in Swift**](https://www.youtube.com/watch?v=E0YKylaqrQs) [1:15:43]
 
 ## 2015
 1. [Natasha Murashev: **Introduction to Protocol-Oriented MVVM**](https://www.youtube.com/watch?v=cGWBpra3YMc) [29:13]
