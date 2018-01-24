@@ -11,6 +11,8 @@
 1. [Krzysztof Zabłocki: **Metaprogramming in Swift**](https://vimeo.com/235321010) [45:10]
 1. [Neem Serra: **Map and FlatMap Magic**](https://academy.realm.io/posts/try-swift-nyc-2017-neem-serra-map-and-flatmap-in-swift/) [25:40]
 1. [Sam Davies: **Codeable in Swift 4**](https://www.youtube.com/watch?v=_txZbmYmT3Y) [36:41]
+1. [Doug Gregor, Ben Cohen, Bob Wilson, John McCall: **What's New in Swift 4**](https://youtu.be/3y42Qg6MTvk) [59:29]
+1. [Tony Parker, Michael LeHew, Itai Ferber: **What's New in Foundation for Swift**](https://www.youtube.com/watch?v=YBcmbAbDijE) [53:10]
 
 ## 2016
 1. [Rob Napier: **Beyond Crusty: Real-World Protocols**](https://www.youtube.com/watch?v=QCxkaTj7QJs) [17:04]
@@ -19,6 +21,8 @@
 1. [Ayaka Nonaka: **Contributing to Swift**](https://www.youtube.com/watch?v=0so-oU2QP48) [32:15]
 1. [Natasha Murashev: **Practical Protocol-Oriented Programming in Swift**](https://www.youtube.com/watch?v=qeDxb_ucqr0) [44:08]
 1. [Benjamin Encz: **Unidirectional Data Flow: Shrinking Massive View Controllers**](https://academy.realm.io/posts/benji-encz-unidirectional-data-flow-swift/) [36:30]
+1. [Axel Schlueter: **Swift on Android**](https://www.youtube.com/watch?v=2TxbLAX36h0) [30:13]
+1. [Ben Scheirman: **Swift on Linux**](https://www.youtube.com/watch?v=ysIE0ihh3So) [33:42]
 
 ## 2015
 1. [Natasha Murashev: **Introduction to Protocol-Oriented MVVM**](https://www.youtube.com/watch?v=cGWBpra3YMc) [29:13]
@@ -31,3 +35,5 @@
 1. [Ash Furrow: **Solving Problems the Swift Way**](https://www.youtube.com/watch?v=LtrzZb5Jw0g) [33:50]
 1. [Abizer Nasir: **Thinking in Swift**](https://vimeo.com/105440181) [24:23]
 1. [Natasha Murashev: **The Functional Way**](https://www.youtube.com/watch?v=tohEJSq9gds) [29:04]
+1. [Tim Isted, Dave Addey: **Introduction to Swift**](https://www.youtube.com/watch?v=A0C6L4XmrZM) [52:12]
+
