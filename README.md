@@ -1,6 +1,9 @@
 # Must-watch videos about Swift
 > This is a list of must-watch videos devoted to Swift, heavily inspired by @bolshchikov's js-must-watch repo.
 
+## 2018
+1. [Ellen Shapiro: **Protocols All The Way Down**](https://www.youtube.com/watch?v=a0m0acpM8II) [19:36]
+
 ## 2017
 1. [Krzysztof Zabłocki: **Good iOS Application Architecture: MVVM vs. MVC vs. VIPER**](https://slideslive.com/38897361/good-ios-application-architecture-en) [53:37]
 1. [Erica Sadun: **A Funny Thing Happened On The Way To This Array**](https://academy.realm.io/posts/try-swift-nyc-2017-erica-sadun-swift-flexibility-arrays/) [22:52]
